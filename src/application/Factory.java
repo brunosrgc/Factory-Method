@@ -4,7 +4,7 @@ import entities.PizzaFactory;
 
 public class Factory {
 
-	//No padrão Factory nós criamos sem expor a lógica de programação
+	//No padrão Factory nós criamos objetos sem expor a lógica de programação
 	//e os objetos recem criados ultilizam uma interface em comum
 	
 	public static void main(String[] args) {
